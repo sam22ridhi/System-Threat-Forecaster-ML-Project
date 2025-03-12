@@ -51,17 +51,12 @@ The project follows a comprehensive machine learning pipeline:
 - Stacking Ensemble
 
 ## Results
-The models were evaluated using accuracy, precision, recall, and AUC metrics. The best performing model achieved a score of [score] on the test set.
+The models were evaluated using accuracy, precision, recall, and AUC metrics. The best performing model achieved a score of [0.62] on the test set.
 
 ## Requirements
-- Python 3.x
+- Python 3.12
 - Libraries: NumPy, Pandas, Matplotlib, Scikit-learn, XGBoost, LightGBM, Seaborn
 
-## Project Structure
-- `data/`: Contains the dataset files
-- `notebooks/`: Jupyter notebooks for analysis
-- `models/`: Saved model files
-- `README.md`: Project documentation
 
 ## Future Work
 - Implement more sophisticated feature engineering
